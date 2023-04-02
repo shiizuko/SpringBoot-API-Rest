@@ -13,7 +13,7 @@ public class MedicoController {
     @PostMapping  //verbo post
     //requisição do tipo post para a URL /medicos, para que ative o método cadastrar da classe MedicoController
     public void cadastrar(@RequestBody String json) {
-        System.out.println(json);cd 
+        System.out.println(json);
     }
 
 }
