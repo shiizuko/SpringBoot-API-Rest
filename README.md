@@ -23,7 +23,7 @@
 ✾ Lombok <br />
 ✾ MySQL/Flyway <br />
 ✾ JPA/Hibernate <br />
-✾ Mave <br />
+✾ Maven <br />
 ✾ Insomnia <br/>
 
 ## Spring Initializr
