@@ -54,6 +54,16 @@ IntelliJ
 ![image](https://user-images.githubusercontent.com/87834766/229374553-d124a4f0-8712-4053-83d0-e4ff02c42be3.png) 
 <sub>Estrutura de diretório inicial do IntelliJ. Projeto que utiliza Maven, logo possui a estrutura de diretórios do **Maven**. </sub>
 
+# Adicionando Novas Dependências
+<sub>Amplificando a funcionalidade do projeto</sub>
+> 1. [start.spring](https://start.spring.io/)
+> 2. "Add Dependencies" - Adicionar dependências
+> 3. "Explore" - Arquivo pom.xml <sub>**verifique se está selecionado a opção "Maven"**</sub>
+> 4. Procure as dependências, dentro do código, selecione e copie e cole no arquivo "pom.xml" do projeto, logo abaixo da última dependência.
+>> Dependências adicionadas: <i>Validation</i>, <i>MySql Driver</i>, <i>Spring Data JPA</i> e <i>Flyway Migrations</i>.
+> 
+> Reload All Maven Projects, para que as dependências sejam carregadas.
+
 ## Check-List de Funcionalidades a **Desenvolver**
 - [ ] Cadastro de Médicos ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Listagem de Médicos
