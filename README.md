@@ -55,7 +55,7 @@ IntelliJ
 <sub>Estrutura de diretório inicial do IntelliJ. Projeto que utiliza Maven, logo possui a estrutura de diretórios do **Maven**. </sub>
 
 ## Check-List de Funcionalidades a **Desenvolver**
-- [ ] Cadastro de Médicos 
+- [ ] Cadastro de Médicos ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Listagem de Médicos
 - [ ] Atualização de Médicos
 - [ ] Exclusão de Médicos
