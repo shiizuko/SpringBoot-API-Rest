@@ -63,6 +63,19 @@ IntelliJ
 >> Dependências adicionadas: <i>Validation</i>, <i>MySql Driver</i>, <i>Spring Data JPA</i> e <i>Flyway Migrations</i>.
 > 
 > Reload All Maven Projects, para que as dependências sejam carregadas.
+## Configurar <i>DataSource</i>
+> src > resources > **application.properties**
+>
+add 3 propriedades: URL de conexão com o banco de dados, login, senha.
+~~~
+spring.datasource.url=jdbc:mysql:://localhost/vollmed_api
+spring.datasource.usernamento=seu_username_aqui
+spring.datasource.password=sua_senha_aqui
+~~~
+acesse o mysql pela Command Line Client 
+~~~sql
+create database vollmed_api
+~~~
 
 ## Check-List de Funcionalidades a **Desenvolver**
 - [ ] Cadastro de Médicos ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
