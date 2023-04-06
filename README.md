@@ -78,11 +78,11 @@ create database vollmed_api
 ~~~
 
 ## Check-List de Funcionalidades a **Desenvolver**
-- [ ] Cadastro de Médicos ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
+- [x] Cadastro de Médicos 
 - [ ] Listagem de Médicos
 - [ ] Atualização de Médicos
 - [ ] Exclusão de Médicos
-- [ ] Cadastro de Pacientes
+- [ ] Cadastro de Pacientes ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Listagem de Pacientes
 - [ ] Atualização de Pacientes
 - [ ] Exclusão de Pacientes
