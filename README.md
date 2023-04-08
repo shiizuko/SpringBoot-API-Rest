@@ -83,7 +83,7 @@ create database vollmed_api
 - [ ] Atualização de Médicos
 - [ ] Exclusão de Médicos
 - [x] Cadastro de Pacientes
-- [ ] Listagem de Pacientes
+- [ ] Listagem de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Atualização de Pacientes
 - [ ] Exclusão de Pacientes
 - [ ] Agendamento de Consultas
