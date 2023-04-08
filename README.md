@@ -84,6 +84,14 @@ create database vollmed_api
 > O verbo da requisição Cadastro e Listagem são diferentes, portanto não haverá conflito.
 >
 O body da requisição irá vazio.
+
+#  Paginação 
+Para controlar o número de registros a serem exibidos, a URL é passada com o parâmetro `?size`.
+>  o Spring devolve 20 registros por padrão.
+>
+Para trazermos a página,é passado outro parâmetro na URL, após usar um & -- `page`.
+> Com os parâmetros *page* e *size*, controlamos a paginação.
+> 
 ## Check-List de Funcionalidades a **Desenvolver**
 - [x] Cadastro de Médicos 
 - [ ] Listagem de Médicos  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
