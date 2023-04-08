@@ -77,6 +77,13 @@ acesse o mysql pela Command Line Client
 create database vollmed_api
 ~~~
 
+# Testando a listagem 
+- Insomnia para testar a API
+## Criar uma nova requisição
+“+ > Http Request”.  - O verbo será o padrão, “GET”. A URL da requisição será o mesmo endereço do cadastro: “http://localhost8080/medicos” -- medicos/pacientes
+> O verbo da requisição Cadastro e Listagem são diferentes, portanto não haverá conflito.
+>
+O body da requisição irá vazio.
 ## Check-List de Funcionalidades a **Desenvolver**
 - [x] Cadastro de Médicos 
 - [ ] Listagem de Médicos  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
