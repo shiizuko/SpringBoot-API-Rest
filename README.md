@@ -98,7 +98,7 @@ Para trazermos a página,é passado outro parâmetro na URL, após usar um & -- 
 - [ ] Atualização de Médicos  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Exclusão de Médicos
 - [x] Cadastro de Pacientes
-- [ ] Listagem de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
+- [x] Listagem de Pacientes 
 - [ ] Atualização de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Exclusão de Pacientes
 - [ ] Agendamento de Consultas
