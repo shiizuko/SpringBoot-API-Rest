@@ -95,12 +95,12 @@ Para trazermos a página,é passado outro parâmetro na URL, após usar um & -- 
 ## Check-List de Funcionalidades a **Desenvolver**
 - [x] Cadastro de Médicos 
 - [x] Listagem de Médicos
-- [ ] Atualização de Médicos  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
-- [ ] Exclusão de Médicos
+- [x] Atualização de Médicos
+- [x] Exclusão de Médicos
 - [x] Cadastro de Pacientes
 - [x] Listagem de Pacientes 
 - [ ] Atualização de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
-- [ ] Exclusão de Pacientes
+- [ ] Exclusão de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Agendamento de Consultas
 - [ ] Cancelamento de Consultas
 - [ ] Finish  :tada:
