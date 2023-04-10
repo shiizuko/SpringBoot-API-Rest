@@ -99,10 +99,10 @@ Para trazermos a página,é passado outro parâmetro na URL, após usar um & -- 
 - [x] Exclusão de Médicos
 - [x] Cadastro de Pacientes
 - [x] Listagem de Pacientes 
-- [ ] Atualização de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
-- [ ] Exclusão de Pacientes  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
-- [ ] Agendamento de Consultas
-- [ ] Cancelamento de Consultas
+- [x] Atualização de Pacientes 
+- [x] Exclusão de Pacientes  
+- [ ] Agendamento de Consultas  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
+- [ ] Cancelamento de Consultas  ![progresso](https://img.shields.io/badge/-...em%20desenvolvimento-blue)
 - [ ] Finish  :tada:
 
 
